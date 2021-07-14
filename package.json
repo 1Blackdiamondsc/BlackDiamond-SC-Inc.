@@ -12,5 +12,8 @@
     "http-errors": "~1.8.0",
     "jade": "~1.11.0",
     "morgan": "~1.10.0"
+  },
+  "devDependencies": {
+    "npm-start-command": "^1.0.1"
   }
 }
