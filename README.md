@@ -50,3 +50,5 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+https://www.eyes.finance/v3/token/info/0xde5b6b84b3825d5697df15fab070f9fd0f7df3a6?days=30
